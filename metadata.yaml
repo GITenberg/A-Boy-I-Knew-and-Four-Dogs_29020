@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33644
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Hutton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29020#A-Boy-I-Knew-and-Four-Dogs
 gutenberg_issued: '2009-06-01'
 gutenberg_type: Text
 identifiers:
